@@ -1,0 +1,66 @@
+int a=3;
+int d=4;
+float g;
+float h;
+int w=3;
+int c=2+3+3/3*3;
+const int nuarecum=23;
+const int banu[23][12][333]={3};
+
+	clasa nume
+{
+	privat: int gluasdeporc;
+	public: int impachetarefum(int f1, int f2);
+}
+
+int main()
+inceput
+
+int DASDASD;
+c=-6;
+c++;
+afiseaza(c);
+afiseaza(123);
+d=4;
+d--;
+afiseaza(d);
+giucu.ricu;
+afiseaza(3+2);
+
+g=minim(minim(1,2),99);
+afiseaza(g);
+afiseaza(minim(minim(1,2),99));
+
+
+while(5>6)
+{
+string inchisoare;
+h=g;
+afiseaza(g);
+afiseaza(h);
+
+
+c=8;
+c++;
+};
+
+if(d>c)
+{c=9;}
+else
+{c=10;};
+
+for(int ac;c>5;c++)
+{
+	c=10;
+};
+
+
+
+w=modul(-10);
+g=cmmmc(23,10);
+
+afiseaza(g);
+afiseaza(w);
+
+
+sfarsit
